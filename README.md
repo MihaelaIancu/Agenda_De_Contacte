@@ -1,5 +1,5 @@
 # Agenda_De_Contacte
-   Am realizat acest proiect, care are la baza logare si crearea de conturi pentru un client utilizand PHP, CSS, JS, HTML si PDO pentru conectarea la baza de date in PHP myadmin.
 
-   Cateva detalii despre agenda telefonică.
-Aceasta presupunea ca un client sa isi creeze un cont, cu ajutorul căruia se putea loga în contul salvat și acolo isi putea salva numele de contact și numerele de telefon ale altor persoane. Se puteau edita și șterge unul sau mai multe contacte și, de asemenea, se puteau efectua căutari după numele de contact dorit sau numărul de telefon dorit.
+   This projectis based on logging in and creating accounts for a client using PHP, CSS, JS, HTML and PDO to connect to the database in PHPMyAdmin.
+
+   Few details about the telephone contact book. This meant that the client could create an account, with which he could log into the saved account and there he could save his contact names and phone numbers of other people. You could edit and delete 1 or more contacts and also you could search by the desired contact name or the desired phone number.
