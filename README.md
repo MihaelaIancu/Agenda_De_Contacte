@@ -1,4 +1,4 @@
-# Agenda_De_Contacte
+# Phone_Contact_Book
 
    This projectis based on logging in and creating accounts for a client using PHP, CSS, JS, HTML and PDO to connect to the database in PHPMyAdmin.
 
